@@ -13,3 +13,4 @@ rsync -a Flat-UI/dist/js/ assets/javascripts/
 rsync -a Flat-UI/dist/img/ assets/images/
 rsync -a Flat-UI/dist/css/ assets/stylesheets/
 rsync -a Flat-UI/dist/fonts/ assets/fonts/
+rm assets/images/favicon.ico
