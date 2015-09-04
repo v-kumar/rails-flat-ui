@@ -6,5 +6,5 @@ in the application.js add:
 //= require flat-ui
 
 in custom.css.scss add:
-@import "flat-ui"
+@import "flat-ui";
 
